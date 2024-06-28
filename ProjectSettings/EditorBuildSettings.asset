@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/JetTurbine.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/visionxr.unity
+    guid: bde29b21ee9b749e68729a71cdc16db8
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: af8144925c729bf4dace2937014ec34b, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c146c2a3520f1b84191b175d1248ccc5, type: 2}
